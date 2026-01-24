@@ -78,8 +78,10 @@ V = \frac{2 \pi \cdot A \cdot NA}{\lambda} = 4.91
 \[
 \frac{V^2}{2} = \frac{(4.91)^2}{2} \approx 12.05
 \]
+![WhatsApp Image 2026-01-24 at 14 35 42](https://github.com/user-attachments/assets/151210e2-7348-404e-92cd-c42ea0772f0b)
 
 ---
+
 
 # Result
 The fiber supports **4 Linearly Polarized (LP) modes** at the given parameters.
