@@ -11,7 +11,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 4. Fiber Holding Stand  
 5. Opaque Screen  
 
----
+--
 
 # Theory
 The central spot carries 95% of the intensity for laser beams with Gaussian profile.  
