@@ -9,7 +9,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 2. Source to Fiber Coupler  
 3. Single Mode Fiber  
 4. Fiber Holding Stand  
-5. Opaque Screen  
+5. Opaque Screen 
 
 --
 
